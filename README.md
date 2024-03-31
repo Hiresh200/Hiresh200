@@ -1,3 +1,6 @@
+https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20Everyone!👋&reversal=false&section=header&textBg=false&fontSize=60&fontAlign=50&animation=scaleIn&strokeWidth=0
+
+
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64b413eb9a1017508d230f1f?variant=light&roadmaps=cyber-security%2Ctechnical-writer%2Cjavascript" alt="roadmap.sh"/></a>
 
 <!--
